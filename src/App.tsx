@@ -3,7 +3,9 @@ import './App.css'
 function App() {
   return (
     <>
-      Hello World
+      <div className="text-3xl text-red-500">
+        Hello world!
+      </div>    
     </>
   )
 }
